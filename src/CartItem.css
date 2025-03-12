@@ -49,6 +49,10 @@
   border-radius: 5px;
 }
 
+.cart-item-button:disabled{
+  background-color: #acabab;
+}
+
 .cart-item-quantity-value {
   font-size: 16px;
   font-weight: bold;
